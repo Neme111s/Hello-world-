@@ -1,0 +1,50 @@
+C:\Users\Lirdam\source\repos\Application 2.2\Application 2.2\bin\Debug\Application 2.2.exe.config
+C:\Users\Lirdam\source\repos\Application 2.2\Application 2.2\bin\Debug\Application 2.2.exe
+C:\Users\Lirdam\source\repos\Application 2.2\Application 2.2\bin\Debug\Application 2.2.pdb
+C:\Users\Lirdam\source\repos\Application 2.2\Application 2.2\bin\Debug\LiveCharts.dll
+C:\Users\Lirdam\source\repos\Application 2.2\Application 2.2\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Lirdam\source\repos\Application 2.2\Application 2.2\bin\Debug\LiveCharts.pdb
+C:\Users\Lirdam\source\repos\Application 2.2\Application 2.2\bin\Debug\LiveCharts.xml
+C:\Users\Lirdam\source\repos\Application 2.2\Application 2.2\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Lirdam\source\repos\Application 2.2\Application 2.2\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Lirdam\source\repos\Application 2.2\Application 2.2\obj\Debug\Application 2.2.csprojAssemblyReference.cache
+C:\Users\Lirdam\source\repos\Application 2.2\Application 2.2\obj\Debug\DataTimeChart.g.cs
+C:\Users\Lirdam\source\repos\Application 2.2\Application 2.2\obj\Debug\MainWindow.g.cs
+C:\Users\Lirdam\source\repos\Application 2.2\Application 2.2\obj\Debug\App.g.cs
+C:\Users\Lirdam\source\repos\Application 2.2\Application 2.2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lirdam\source\repos\Application 2.2\Application 2.2\obj\Debug\Application 2.2_MarkupCompile.cache
+C:\Users\Lirdam\source\repos\Application 2.2\Application 2.2\obj\Debug\Application 2.2_MarkupCompile.lref
+C:\Users\Lirdam\source\repos\Application 2.2\Application 2.2\obj\Debug\DataTimeChart.baml
+C:\Users\Lirdam\source\repos\Application 2.2\Application 2.2\obj\Debug\MainWindow.baml
+C:\Users\Lirdam\source\repos\Application 2.2\Application 2.2\obj\Debug\Application 2.2.g.resources
+C:\Users\Lirdam\source\repos\Application 2.2\Application 2.2\obj\Debug\Application_2._2.Properties.Resources.resources
+C:\Users\Lirdam\source\repos\Application 2.2\Application 2.2\obj\Debug\Application 2.2.csproj.GenerateResource.cache
+C:\Users\Lirdam\source\repos\Application 2.2\Application 2.2\obj\Debug\Application 2.2.csproj.CoreCompileInputs.cache
+C:\Users\Lirdam\source\repos\Application 2.2\Application 2.2\obj\Debug\Application 2.2.csproj.CopyComplete
+C:\Users\Lirdam\source\repos\Application 2.2\Application 2.2\obj\Debug\Application 2.2.exe
+C:\Users\Lirdam\source\repos\Application 2.2\Application 2.2\obj\Debug\Application 2.2.pdb
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\bin\Debug\Application 2.2.exe.config
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\bin\Debug\Application 2.2.exe
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\bin\Debug\Application 2.2.pdb
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\bin\Debug\LiveCharts.dll
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\bin\Debug\LiveCharts.pdb
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\bin\Debug\LiveCharts.xml
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\obj\Debug\Application 2.2.csprojAssemblyReference.cache
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\obj\Debug\DataTimeChart.g.cs
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\obj\Debug\MainWindow.g.cs
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\obj\Debug\App.g.cs
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\obj\Debug\Application 2.2_MarkupCompile.cache
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\obj\Debug\Application 2.2_MarkupCompile.lref
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\obj\Debug\DataTimeChart.baml
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\obj\Debug\MainWindow.baml
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\obj\Debug\Application 2.2.g.resources
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\obj\Debug\Application_2._2.Properties.Resources.resources
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\obj\Debug\Application 2.2.csproj.GenerateResource.cache
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\obj\Debug\Application 2.2.csproj.CoreCompileInputs.cache
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\obj\Debug\Application 2.2.csproj.CopyComplete
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\obj\Debug\Application 2.2.exe
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\obj\Debug\Application 2.2.pdb

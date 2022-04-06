@@ -1,0 +1,25 @@
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\bin\Release\Application 2.2.exe.config
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\bin\Release\Application 2.2.exe
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\bin\Release\Application 2.2.pdb
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\bin\Release\LiveCharts.dll
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\bin\Release\LiveCharts.Wpf.dll
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\bin\Release\LiveCharts.pdb
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\bin\Release\LiveCharts.xml
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\bin\Release\LiveCharts.Wpf.pdb
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\bin\Release\LiveCharts.Wpf.xml
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\obj\Release\Application 2.2.csprojAssemblyReference.cache
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\obj\Release\DataTimeChart.g.cs
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\obj\Release\MainWindow.g.cs
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\obj\Release\App.g.cs
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\obj\Release\Application 2.2_MarkupCompile.cache
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\obj\Release\Application 2.2_MarkupCompile.lref
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\obj\Release\DataTimeChart.baml
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\obj\Release\MainWindow.baml
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\obj\Release\Application 2.2.g.resources
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\obj\Release\Application_2._2.Properties.Resources.resources
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\obj\Release\Application 2.2.csproj.GenerateResource.cache
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\obj\Release\Application 2.2.csproj.CoreCompileInputs.cache
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\obj\Release\Application 2.2.csproj.CopyComplete
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\obj\Release\Application 2.2.exe
+C:\Users\Lirdam\Desktop\Application 2.2\Application 2.2\obj\Release\Application 2.2.pdb
